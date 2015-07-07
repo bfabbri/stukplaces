@@ -8,6 +8,9 @@ gem 'font-awesome-rails'
 gem 'simple_form'
 #Devise
 gem 'devise'
+#Gravatar
+gem 'gravatarify', '~> 3.0.0'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
